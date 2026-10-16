@@ -1,2 +1,2 @@
 # CodeChef
-Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview! - Created using [LeetHub AI](https://github.com/gaulghost)
+Collection of CodeChef questions to ace the coding interview! 
